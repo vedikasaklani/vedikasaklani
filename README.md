@@ -20,39 +20,39 @@ I'm looking to start contributing to open source soon. If you have a project and
 
 **Languages**
 
-![Python](https://img.shields.io/badge/-Python-cfe8ff?style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-ffd3e8?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-cfe8ff?style=for-the-badge)
-![C](https://img.shields.io/badge/-C-ffd3e8?style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-cfe8ff?style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-ffd3e8?style=for-the-badge)
+![Python](assets/skills/python.svg)
+![Java](assets/skills/java.svg)
+![JavaScript](assets/skills/javascript.svg)
+![C](assets/skills/c.svg)
+![C++](assets/skills/cpp.svg)
+![SQL](assets/skills/sql.svg)
 
 **Web and Backend**
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-cfe8ff?style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-ffd3e8?style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-cfe8ff?style=for-the-badge)
-![React](https://img.shields.io/badge/-React-ffd3e8?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-cfe8ff?style=for-the-badge)
-![OAuth](https://img.shields.io/badge/-OAuth-ffd3e8?style=for-the-badge)
-![REST_APIs](https://img.shields.io/badge/-REST_APIs-cfe8ff?style=for-the-badge)
+![FastAPI](assets/skills/fastapi.svg)
+![Flask](assets/skills/flask.svg)
+![Django](assets/skills/django.svg)
+![React](assets/skills/react.svg)
+![SQLAlchemy](assets/skills/sqlalchemy.svg)
+![OAuth](assets/skills/oauth.svg)
+![REST_APIs](assets/skills/rest-apis.svg)
 
 **AI and LLM**
 
-![MCP](https://img.shields.io/badge/-MCP-ffd3e8?style=for-the-badge)
-![LLM_Tool_Calling](https://img.shields.io/badge/-LLM_Tool_Calling-cfe8ff?style=for-the-badge)
-![Prompt_Engineering](https://img.shields.io/badge/-Prompt_Engineering-ffd3e8?style=for-the-badge)
-![Hugging_Face_API](https://img.shields.io/badge/-Hugging_Face_API-cfe8ff?style=for-the-badge)
-![spaCy](https://img.shields.io/badge/-spaCy-ffd3e8?style=for-the-badge)
+![MCP](assets/skills/mcp.svg)
+![LLM_Tool_Calling](assets/skills/llm-tool-calling.svg)
+![Prompt_Engineering](assets/skills/prompt-engineering.svg)
+![Hugging_Face_API](assets/skills/hugging-face-api.svg)
+![spaCy](assets/skills/spacy.svg)
 
 **Data and Tools**
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-cfe8ff?style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-ffd3e8?style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-cfe8ff?style=for-the-badge)
-![GitHub_Actions](https://img.shields.io/badge/-GitHub_Actions-ffd3e8?style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-cfe8ff?style=for-the-badge)
-![Claude_Code](https://img.shields.io/badge/-Claude_Code-ffd3e8?style=for-the-badge)
+![PostgreSQL](assets/skills/postgresql.svg)
+![Docker](assets/skills/docker.svg)
+![AWS](assets/skills/aws.svg)
+![GitHub_Actions](assets/skills/github-actions.svg)
+![Git](assets/skills/git.svg)
+![Claude_Code](assets/skills/claude-code.svg)
 
 ---
 
