@@ -18,9 +18,9 @@ I'm looking to start contributing to open source soon. If you have a project and
 
 ## What I'm Working On
 
-<!-- Add what you're building or learning right now, one bullet each -->
+- **AI engineering:** learning how to build production-ready AI systems
+- **[Folio](https://github.com/vedikasaklani/folio):** a drawing and editing app with real-time sharing, which I'm building and learning from
 - Finding my first open source project to contribute to
-- Building on my MCP and AI agent projects below
 
 ---
 
