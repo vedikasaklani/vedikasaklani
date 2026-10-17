@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg?v=6" alt="Vedika Saklani, software engineer in the making"></p>
+<p align="center"><img src="assets/banner.svg?v=7" alt="Vedika Saklani, software engineer in the making"></p>
 
 I build backend systems and full-stack features, from APIs and databases to CI and deployment.
 
@@ -20,39 +20,39 @@ I'm looking to start contributing to open source soon. If you have a project and
 
 **Languages**
 
-![Python](assets/skills/python.svg?v=6)
-![Java](assets/skills/java.svg?v=6)
-![JavaScript](assets/skills/javascript.svg?v=6)
-![C](assets/skills/c.svg?v=6)
-![C++](assets/skills/cpp.svg?v=6)
-![SQL](assets/skills/sql.svg?v=6)
+![Python](assets/skills/python.svg?v=7)
+![Java](assets/skills/java.svg?v=7)
+![JavaScript](assets/skills/javascript.svg?v=7)
+![C](assets/skills/c.svg?v=7)
+![C++](assets/skills/cpp.svg?v=7)
+![SQL](assets/skills/sql.svg?v=7)
 
 **Web and Backend**
 
-![FastAPI](assets/skills/fastapi.svg?v=6)
-![Flask](assets/skills/flask.svg?v=6)
-![Django](assets/skills/django.svg?v=6)
-![React](assets/skills/react.svg?v=6)
-![SQLAlchemy](assets/skills/sqlalchemy.svg?v=6)
-![OAuth](assets/skills/oauth.svg?v=6)
-![REST_APIs](assets/skills/rest-apis.svg?v=6)
+![FastAPI](assets/skills/fastapi.svg?v=7)
+![Flask](assets/skills/flask.svg?v=7)
+![Django](assets/skills/django.svg?v=7)
+![React](assets/skills/react.svg?v=7)
+![SQLAlchemy](assets/skills/sqlalchemy.svg?v=7)
+![OAuth](assets/skills/oauth.svg?v=7)
+![REST_APIs](assets/skills/rest-apis.svg?v=7)
 
 **AI and LLM**
 
-![MCP](assets/skills/mcp.svg?v=6)
-![LLM_Tool_Calling](assets/skills/llm-tool-calling.svg?v=6)
-![Prompt_Engineering](assets/skills/prompt-engineering.svg?v=6)
-![Hugging_Face_API](assets/skills/hugging-face-api.svg?v=6)
-![spaCy](assets/skills/spacy.svg?v=6)
+![MCP](assets/skills/mcp.svg?v=7)
+![LLM_Tool_Calling](assets/skills/llm-tool-calling.svg?v=7)
+![Prompt_Engineering](assets/skills/prompt-engineering.svg?v=7)
+![Hugging_Face_API](assets/skills/hugging-face-api.svg?v=7)
+![spaCy](assets/skills/spacy.svg?v=7)
 
 **Data and Tools**
 
-![PostgreSQL](assets/skills/postgresql.svg?v=6)
-![Docker](assets/skills/docker.svg?v=6)
-![AWS](assets/skills/aws.svg?v=6)
-![GitHub_Actions](assets/skills/github-actions.svg?v=6)
-![Git](assets/skills/git.svg?v=6)
-![Claude_Code](assets/skills/claude-code.svg?v=6)
+![PostgreSQL](assets/skills/postgresql.svg?v=7)
+![Docker](assets/skills/docker.svg?v=7)
+![AWS](assets/skills/aws.svg?v=7)
+![GitHub_Actions](assets/skills/github-actions.svg?v=7)
+![Git](assets/skills/git.svg?v=7)
+![Claude_Code](assets/skills/claude-code.svg?v=7)
 
 ---
 
