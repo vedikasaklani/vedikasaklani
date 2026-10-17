@@ -16,6 +16,14 @@ I'm looking to start contributing to open source soon. If you have a project and
 
 ---
 
+## What I'm Working On
+
+<!-- Add what you're building or learning right now, one bullet each -->
+- Finding my first open source project to contribute to
+- Building on my MCP and AI agent projects below
+
+---
+
 ## Skills
 
 **Languages**
