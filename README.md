@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg?v=7" alt="Vedika Saklani, software engineer in the making"></p>
+<p align="center"><img src="assets/banner.png" alt="Vedika Saklani, software engineer in the making"></p>
 
 ## About me
 
@@ -22,20 +22,20 @@ BTech Computer Science (Cybersecurity) at **VIT**, Class of 2028
 
 **Languages**
 
-![Python](assets/skills/python.svg?v=7) ![Java](assets/skills/java.svg?v=7) ![JavaScript](assets/skills/javascript.svg?v=7) ![C](assets/skills/c.svg?v=7) ![C++](assets/skills/cpp.svg?v=7) ![SQL](assets/skills/sql.svg?v=7)
+![Python](assets/skills/python.svg?v=8) ![Java](assets/skills/java.svg?v=8) ![JavaScript](assets/skills/javascript.svg?v=8) ![C](assets/skills/c.svg?v=8) ![C++](assets/skills/cpp.svg?v=8) ![SQL](assets/skills/sql.svg?v=8)
 
 
 **Web and Backend**
 
-![FastAPI](assets/skills/fastapi.svg?v=7) ![Flask](assets/skills/flask.svg?v=7) ![Django](assets/skills/django.svg?v=7) ![React](assets/skills/react.svg?v=7) ![SQLAlchemy](assets/skills/sqlalchemy.svg?v=7) ![OAuth](assets/skills/oauth.svg?v=7) ![REST_APIs](assets/skills/rest-apis.svg?v=7)
+![FastAPI](assets/skills/fastapi.svg?v=8) ![Flask](assets/skills/flask.svg?v=8) ![Django](assets/skills/django.svg?v=8) ![React](assets/skills/react.svg?v=8) ![SQLAlchemy](assets/skills/sqlalchemy.svg?v=8) ![OAuth](assets/skills/oauth.svg?v=8) ![REST_APIs](assets/skills/rest-apis.svg?v=8)
 
 **AI and LLM**
 
-![MCP](assets/skills/mcp.svg?v=7) ![LLM_Tool_Calling](assets/skills/llm-tool-calling.svg?v=7) ![Prompt_Engineering](assets/skills/prompt-engineering.svg?v=7) ![Hugging_Face_API](assets/skills/hugging-face-api.svg?v=7) ![spaCy](assets/skills/spacy.svg?v=7)
+![MCP](assets/skills/mcp.svg?v=8) ![LLM_Tool_Calling](assets/skills/llm-tool-calling.svg?v=8) ![Prompt_Engineering](assets/skills/prompt-engineering.svg?v=8) ![Hugging_Face_API](assets/skills/hugging-face-api.svg?v=8) ![spaCy](assets/skills/spacy.svg?v=8)
 
 **Data and Tools**
 
-![PostgreSQL](assets/skills/postgresql.svg?v=7) ![Docker](assets/skills/docker.svg?v=7) ![AWS](assets/skills/aws.svg?v=7) ![GitHub_Actions](assets/skills/github-actions.svg?v=7) ![Git](assets/skills/git.svg?v=7) ![Claude_Code](assets/skills/claude-code.svg?v=7)
+![PostgreSQL](assets/skills/postgresql.svg?v=8) ![Docker](assets/skills/docker.svg?v=8) ![AWS](assets/skills/aws.svg?v=8) ![GitHub_Actions](assets/skills/github-actions.svg?v=8) ![Git](assets/skills/git.svg?v=8) ![Claude_Code](assets/skills/claude-code.svg?v=8)
 
 ---
 
