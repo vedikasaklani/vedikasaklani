@@ -1,18 +1,13 @@
 <p align="center"><img src="assets/banner.svg?v=7" alt="Vedika Saklani, software engineer in the making"></p>
 
-I build backend systems and full-stack features, from APIs and databases to CI and deployment.
+## About me
+
+I build backend systems and full-stack features, from APIs and databases to CI and deployment. 
 
 BTech Computer Science (Cybersecurity) at **VIT**, Class of 2028 
 
 [Email](mailto:ivedikasaklani@gmail.com) · [GitHub](https://github.com/vedikasaklani) · [LinkedIn](https://www.linkedin.com/in/vedika-saklani-2a1598375)
 
----
-
-## About Me
-
-
-
-I'm looking to start contributing to open source soon. If you have a project and want a collaborator, [email me](mailto:ivedikasaklani@gmail.com) right now.
 ---
 
 ## What I'm Working On
