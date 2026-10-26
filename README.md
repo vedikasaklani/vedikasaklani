@@ -41,36 +41,47 @@ BTech Computer Science (Cybersecurity) at **VIT**, Class of 2028
 
 ## Projects
 
-### [AI Commerce Agent: OAuth-Protected MCP + Razorpay](https://github.com/vedikasaklani/chatbot-and-mcp-agent-commerce)
-[Demo video](https://drive.google.com/file/d/14w8QHVQa3Rht66EuI3LCjxFGqK71NW1n/view)
-
-`FastAPI` `SQLAlchemy` `PostgreSQL` `Razorpay` `WorkOS OAuth` `MCP`
-
-- OAuth-protected MCP server (WorkOS bridge) that lets external AI clients like Claude authenticate and place purchases via function calling.
-- Multi-turn agent that searches products, manages the cart and places orders, with per-user memory, a full audit log and a decision record per order.
-- Razorpay checkout with webhook signature verification and idempotent event handling. The server validates every payment itself rather than trusting model output.
-- Deployed as three Render services, with a Pytest suite in GitHub Actions CI (webhook rejection, payment verification, rollback on provider failure or order-cap breach).
-
-### [MCP Server Trust Registry](https://github.com/vedikasaklani/mcp-server-exasol)
-[Demo video](https://drive.google.com/file/d/1R9sLmjSL_2GYnYjBkptb0quM3jcn2iWk/view?usp=sharing)
-
-`FastAPI` `PostgreSQL` `Exasol` `SQLAlchemy` `GitHub App Webhooks` `Alembic` `Docker`
-
-- Registry that scans third-party MCP servers on every GitHub push (static rules + LLM behavioral analysis) and assigns a daily trust score.
-- GitHub App webhook flow (signature verification, private-repo cloning via installation tokens) and a two-phase scan pipeline integrating the Cisco `mcp-scanner`.
-- SQL star schema in an Exasol warehouse, fed by a best-effort PostgreSQL to Exasol sync so an analytics outage never fails a committed scan.
-
-### [depSCAN](https://github.com/vedikasaklani/depSCAN)
-Frontend Lead
-
-`React` `Recharts` `REST APIs`
-
-- Built the Project View (scan history, ecosystem filtering, NTIA compliance overview) and the Vulnerability Dashboard (CVE table with CVSS, affected packages, fix versions, dependency graph, report export).
-- Wired both views to live SBOM-scan APIs and managed version control for a team of 6.
-
-### [PDF-to-Video Learning Recommender](https://github.com/vedikasaklani/tutorial-recommender)
-
-`Python` `spaCy` `PyPDF` `Hugging Face API` `YouTube Data API`
-
-- NLP pipeline: chunks PDFs with spaCy, ranks chunks by embedding similarity, and prompts an LLM to generate YouTube queries. Results are deduplicated and ranked.
-- Chrome/Firefox extension that recommends videos for the active tab's PDF via a Flask REST API.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/vedikasaklani/chatbot-and-mcp-agent-commerce">AI Commerce Agent: OAuth-Protected MCP + Razorpay</a></h3>
+      <p><a href="https://drive.google.com/file/d/14w8QHVQa3Rht66EuI3LCjxFGqK71NW1n/view">Demo video</a></p>
+      <p><code>FastAPI</code> <code>SQLAlchemy</code> <code>PostgreSQL</code> <code>Razorpay</code> <code>WorkOS OAuth</code> <code>MCP</code></p>
+      <ul>
+        <li>OAuth-protected MCP server (WorkOS bridge) lets external AI clients like Claude authenticate and place purchases through function calling.</li>
+        <li>Multi-turn agent searches products, manages carts, and places orders with per-user memory, an audit log, and a decision record for each order.</li>
+        <li>Razorpay checkout verifies webhook signatures and handles events idempotently. The server validates each payment instead of trusting model output.</li>
+        <li>Deployed as three Render services, with Pytest coverage in GitHub Actions CI for webhook rejection, payment verification, and rollback cases.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/vedikasaklani/mcp-server-exasol">MCP Server Trust Registry</a></h3>
+      <p><a href="https://drive.google.com/file/d/1R9sLmjSL_2GYnYjBkptb0quM3jcn2iWk/view?usp=sharing">Demo video</a></p>
+      <p><code>FastAPI</code> <code>PostgreSQL</code> <code>Exasol</code> <code>SQLAlchemy</code> <code>GitHub App Webhooks</code> <code>Alembic</code> <code>Docker</code></p>
+      <ul>
+        <li>Scans third-party MCP servers on every GitHub push with static rules and LLM behavioral analysis, then assigns a daily trust score.</li>
+        <li>GitHub App webhook flow verifies signatures, clones private repositories with installation tokens, and runs a two-phase scan using Cisco <code>mcp-scanner</code>.</li>
+        <li>Exasol SQL star schema receives best-effort PostgreSQL syncs, so analytics outages never fail a committed scan.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/vedikasaklani/depSCAN">depSCAN</a></h3>
+      <p><strong>Frontend Lead</strong></p>
+      <p><code>React</code> <code>Recharts</code> <code>REST APIs</code></p>
+      <ul>
+        <li>Built the Project View with scan history, ecosystem filters, and NTIA compliance, plus a Vulnerability Dashboard with CVSS details, fix versions, dependency graph, and report export.</li>
+        <li>Connected both views to live SBOM scan APIs and managed version control for a team of six.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/vedikasaklani/tutorial-recommender">PDF-to-Video Learning Recommender</a></h3>
+      <p><code>Python</code> <code>spaCy</code> <code>PyPDF</code> <code>Hugging Face API</code> <code>YouTube Data API</code></p>
+      <ul>
+        <li>NLP pipeline chunks PDFs with spaCy, ranks passages by embedding similarity, and asks an LLM to generate YouTube queries. Results are deduplicated and ranked.</li>
+        <li>Chrome and Firefox extension recommends videos for the active PDF through a Flask REST API.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
